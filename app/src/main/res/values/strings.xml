@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- First Activity -->
+    <string name="title_activity_index">Index</string>
+    <string name="start">INICIAR</string>
+    <string name="Logo">Logo</string>
+
+    <!-- Default Strings -->
+    <string name="app_name">HEALTH REMINDER</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hello_world">Hola Mundo</string>
+
+    <!-- Primeros auxilios -->
+    <string name="FirstAid">Primeros auxilios</string>
+    <!-- Consulsiones -->
+    <string name="seizuresTitle">Convulsiones</string>
+    <string name="seizures1">1. Coloque a la persona en el suelo, dejando su cabeza de la persona reposando.</string>
+    <string name="seizures2">2. Afloje la ropa ajustada especialmente en el cuello.</string>
+    <string name="seizures3">3. Voltear a la persona de preferencia en caso de vomito.</string>
+
+    <!--Fractura -->
+    <string name="fractureTitle">Fractura</string>
+    <string name="fracture1">1. Debemos de mantener tranquila e inmovilizada a la víctima.</string>
+    <string name="fracture2">2. Si la fractura es expuesta, tratar de no respirar ni hurgar sobre esta, con el fin de prevenir infecciones.</string>
+    <string name="fracture3">3. Enjuagar la herida para eliminar la suciedad y tapar con gasas estériles.</string>
+    <string name="fracture4">4. Inmovilizar la parte afectada con una tablilla y amarrarla por los extremos, no apretando demasiado.</string>
+    <string name="fracture5">5. De ninguna manera tratar de poner el hueso en su sitio.</string>
+
+    <!--Quemaduras -->
+    <string name="burnsTitle">Quemaduras</string>
+    <string name="burns1">1. Regar agua fresca sobre el área de la quemadura (no agua helada) durante 5 minutos.</string>
+    <string name="burns2">2. Se debe cubrir con una gasa estéril o un trozo de tela limpio.</string>
+    <string name="burns3">3. Se pueden utilizar analgésicos de venta libre como el ibuprofeno o acetaminofén, para ayudar a aliviar el dolor.</string>
+
+    <!--Mordeduras -->
+    <string name="bitesTitle">Mordeduras</string>
+    <string name="bites1">1. En caso de que haya hemorragia, primero llame a emergencias y luego aplique los primeros auxilios.</string>
+    <string name="bites2">2. Será necesario comprimir la zona afectada con una gasa esterilizada, cubrir la zona con la tela doblada en varias partes y presionar con las manos mientras llega la asistencia médica.</string>
+    <string name="bites3">3. Coloque la zona mordida más elevada que el resto del cuerpo para que se disminuya el flujo sanguíneo.</string>
+    <string name="bites4">4. Si no hay hemorragia, lave la herida con agua fresca y un jabón suave, cubra la herida con una pomada antiséptica y una venda.</string>
+
+    <!--Insolación -->
+    <string name="exposureTitle">Insolación</string>
+    <string name="exposure1">1. Haga que la persona afectada se acueste y beba agua abundantemente.</string>
+    <string name="exposure2">2. Coloque paños húmedos y fríos en la frente y de un sube masaje en las extremidades. En caso de fiebre aplique compresas o paños húmedos sobre todo el cuerpo.</string>
+
+    <!--Asifixia -->
+    <string name="asphyxiationTitle">Asifixia</string>
+    <string name="asphyxiation1">1. Nos colocaremos detrás de la persona que se está ahogando, con nuestros brazos alrededor de la cintura.</string>
+    <string name="asphyxiation2">2. Situaremos nuestro puño justo por encima del ombligo y debajo del esternón, de tal forma que el pulgar quede contra su abdomen.</string>
+    <string name="asphyxiation3">3. Con la otra mano, agarraremos el puño.</string>
+    <string name="asphyxiation4">4. Presionar hacia arriba y hacia adentro con una fuerza que levante a la persona que se está asfixiando del suelo.</string>
+    <string name="asphyxiation5">5. Esta acción se deberá repetir las veces que sean necesarias hasta que el objeto que obstruye las vías respiratorias haya salido.</string>
+
+    <!--Ataque cardíaco -->
+    <string name="heartTitle">Ataque cardíaco</string>
+    <string name="heart1">1. Procure que la persona se siente, descanse y trate de mantener la calma.</string>
+    <string name="heart2">2. Afloje cualquier prenda de vestir ajustada.</string>
+    <string name="heart3">3. Pregúntele si toma medicamentos para el dolor torácico por una enfermedad cardíaca conocida, como nitroglicerina, y ayúdele a tomárlo.</string>
+    <string name="heart4">4. Si el dolor no desaparece rápidamente con el reposo o al cabo de tres minutos después de haber tomado la nitroglicerina, solicite ayuda médica urgente.</string>
+    <string name="heart5">5. Si la persona está inconsciente y no reacciona, llame al número local de emergencias.</string>
+
+    <!--Envenenamiento -->
+    <string name="poisoningTitle">Envenenamiento</string>
+    <string name="poisoning1">1. Examinar y vigilar las vías respiratorias, la respiración y la circulación de la víctima.</string>
+    <string name="poisoning2">2. Administrar respiración boca a boca.</string>
+    <string name="poisoning3">3. Algunos de los síntomas son aliento con olor a químicos, quemaduras alrededor de la boca, dificultad para respirar, vómitos u olores inusuales en la víctima.</string>
+    <string name="poisoning4">4. Si es posible, se debe identificar el veneno o tóxico.</string>
+    <string name="poisoning5">5. Provocar el vómito en la víctima.</string>
+    <string name="poisoning6">6. Si la víctima vomita, hay que despejar las vías respiratorias. Para hacerlo, el socorrista debe envolver los dedos de la mano en un pedazo de tela antes de limpiar la boca y la garganta de la víctima.</string>
+    <string name="poisoning7">7. Si la persona ha estado enferma debido a la ingestión de parte de una planta, se recomienda guardar el vómito, lo cual puede ayudarle a los expertos a identificar el tipo de medicamento que se puede utilizar para neutralizar el tóxico.</string>
+    <string name="poisoning8">8. Si la víctima comienza a tener convulsiones, se deben administrar los primeros auxilios en caso de convulsiones.</string>
+    <string name="poisoning9">9. Mantener a la víctima cómoda.</string>
+    <string name="poisoning10">10. Se debe colocar a la persona sobre su lado izquierdo y permanecer allí mientras se consigue o se espera la ayuda médica. Si el tóxico ha salpicado las ropas de la víctima, hay que quitárselas y lavar la piel con agua.</string>
+
+    <!--Calambres -->
+    <string name="crampsTitle">Calambres</string>
+    <string name="cramps1">1. Interrumpir la actividad.</string>
+    <string name="cramps2">2. Normalmente, el propio calambre obliga a detenerse.</string>
+    <string name="cramps3">3. Masajear el músculo.</string>
+    <string name="cramps4">4. Se suele notar un cierto alivio al apretarle con fuerza.</string>
+    <string name="cramps5">5. Tratar de estirar el músculo, ayudándose con las manos si es preciso (moviendo la articulación más próxima).</string>
+    <string name="cramps6">6. Relajarlo un instante, y seguir tratando de estirar.</string>
+    <string name="cramps7">7. Cuando el calambre remite, ponerse en movimiento con suavidad, de forma que el músculo trabaje.</string>
+    <string name="cramps8">8. Si nos inmovilizamos se puede repetir.</string>
+
+    <string name="Pain">Dolor</string>
+
+    <!-- Medicinas -->
+    <string name="Medications">Medicinas</string>
+
+    <!-- Options -->
+    <string name="analgesico">Analgésicos, antinflamatorios, relajantes musculares</string>
+    <string name="antiacidos">Antiácidos y agentes gastrointestinales</string>
+    <string name="antimicoticos">Antimicóticos y antipruriginosos</string>
+    <string name="urologo">Uso urológico</string>
+    <string name="antiparasitarios">Antiparasitarios</string>
+    <string name="antitusivos">Antitusivos, expectorantes, antihistamínicos</string>
+    <string name="anestesicos">Anestésicos locales</string>
+    <string name="descongestivos">Descongestivos y antialérgicos tópicos</string>
+    <string name="oftalmico">Uso oftálmico</string>
+    <string name="dermatologico">Uso Dermatológico</string>
+    <string name="aceites">Aceites esenciales</string>
+    <string name="otros">Otros</string>
+    <string name="vitaminas">Vitaminas, minerales, suplementos nutricionales y antioxidantes</string>
+
+    <!-- Alarmas -->
+    <string name="AddAlarm">Añadir alarma</string>
+    <string name="Reminders">Recordatorios</string>
+    <string name="setAlarm">Establecer Una Alarma</string>
+    <string name="setRecurrence">No repetir</string>
+    <string name="title_activity_add_alarm">Añade Alarma</string>
+    <string name="Repeat">Repetir</string>
+
+    <!-- Labels -->
+    <string name="label1">Introduce una etiqueta"</string>
+    <string name="label2">Añade Informacion Adicional"</string>
+
+    <!-- Items Spinner -->
+    <string-array name="recurrence_array">
+        <item>No repetir</item>
+        <item>Cada 30 min</item>
+        <item>Cada hora</item>
+        <item>Cada día</item>
+        <item>Cada semana</item>
+    </string-array>
+    <string name="Today">Hoy</string>
+    <string name="Tomorrow">Mañana</string>
+
+    <!-- Botones -->
+    <string name="Accept">Aceptar</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="title_activity_aid_information">Informacion Primeros Auxilios</string>
+    <string name="title_activity_medical_information">MedicalInformation</string>
+    <string name="title_activity_stop_alarm">StopAlarm</string>
+    <string name="title_activity_aid_index">AidIndex</string>
+    <string name="title_activity_medical_index">MedicalIndex</string>
+
+
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="alarms_added">Alarmas Agregadas</string>
+    <string name="noAlarms">Sin alarmas</string>
+</resources>
